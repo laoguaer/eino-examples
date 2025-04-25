@@ -164,3 +164,4 @@ __debug_bin*
 .DS_Store
 /data/
 /einoagent
+.env
